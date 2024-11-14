@@ -93,9 +93,13 @@ main{
 
 span {
     font-family: 'korn';
-    font-size: 70px;
-    margin-top: 0;
-    margin-bottom:0;
+    font-weight: 100;
+    font-size: 100px;
+    margin-top: -65px;
+    margin-bottom: -25px;
+    display: block;
+    text-align: center;
+
 }
 
 p {
