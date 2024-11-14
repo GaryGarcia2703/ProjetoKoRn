@@ -92,11 +92,12 @@ main{
 }
 
 span {
+    color: rgb(0, 0, 0);
     font-family: 'korn';
     font-weight: 100;
     font-size: 100px;
-    margin-top: -65px;
-    margin-bottom: -25px;
+    margin-top: -45px;
+    margin-bottom: -10px;
     display: block;
     text-align: center;
 
